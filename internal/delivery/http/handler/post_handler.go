@@ -4,9 +4,9 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/datran42/newfeed-go/internal/delivery/http/dto"
-	"github.com/datran42/newfeed-go/internal/delivery/http/middleware"
-	"github.com/datran42/newfeed-go/internal/domain"
+	"github.com/Dang-Hai-Tran/newfeed-go/internal/delivery/http/dto"
+	"github.com/Dang-Hai-Tran/newfeed-go/internal/delivery/http/middleware"
+	"github.com/Dang-Hai-Tran/newfeed-go/internal/domain"
 	"github.com/gin-gonic/gin"
 )
 

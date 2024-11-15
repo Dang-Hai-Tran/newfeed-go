@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/datran42/newfeed-go/config"
+	"github.com/Dang-Hai-Tran/newfeed-go/config"
 	"github.com/go-redis/redis/v8"
 )
 

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/datran42/newfeed-go/config"
+	"github.com/Dang-Hai-Tran/newfeed-go/config"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"

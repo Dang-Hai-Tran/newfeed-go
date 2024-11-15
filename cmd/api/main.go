@@ -4,11 +4,11 @@ import (
 	"log"
 	"time"
 
-	"github.com/datran42/newfeed-go/config"
-	"github.com/datran42/newfeed-go/internal/delivery/http"
-	"github.com/datran42/newfeed-go/internal/delivery/http/server"
-	"github.com/datran42/newfeed-go/pkg/cache"
-	"github.com/datran42/newfeed-go/pkg/database"
+	"github.com/Dang-Hai-Tran/newfeed-go/config"
+	"github.com/Dang-Hai-Tran/newfeed-go/internal/delivery/http"
+	"github.com/Dang-Hai-Tran/newfeed-go/internal/delivery/http/server"
+	"github.com/Dang-Hai-Tran/newfeed-go/pkg/cache"
+	"github.com/Dang-Hai-Tran/newfeed-go/pkg/database"
 	"github.com/sirupsen/logrus"
 )
 

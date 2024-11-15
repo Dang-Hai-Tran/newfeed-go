@@ -3,7 +3,7 @@ package postgres
 import (
 	"errors"
 
-	"github.com/datran42/newfeed-go/internal/domain"
+	"github.com/Dang-Hai-Tran/newfeed-go/internal/domain"
 	"gorm.io/gorm"
 )
 

@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/datran42/newfeed-go/internal/domain"
-	"github.com/datran42/newfeed-go/internal/repository/cache"
+	"github.com/Dang-Hai-Tran/newfeed-go/internal/domain"
+	"github.com/Dang-Hai-Tran/newfeed-go/internal/repository/cache"
 )
 
 type postUsecase struct {

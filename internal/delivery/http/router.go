@@ -3,9 +3,9 @@ package http
 import (
 	"time"
 
-	"github.com/datran42/newfeed-go/internal/delivery/http/handler"
-	"github.com/datran42/newfeed-go/internal/delivery/http/middleware"
-	"github.com/datran42/newfeed-go/internal/domain"
+	"github.com/Dang-Hai-Tran/newfeed-go/internal/delivery/http/handler"
+	"github.com/Dang-Hai-Tran/newfeed-go/internal/delivery/http/middleware"
+	"github.com/Dang-Hai-Tran/newfeed-go/internal/domain"
 	"github.com/gin-gonic/gin"
 	"github.com/sirupsen/logrus"
 	"golang.org/x/time/rate"

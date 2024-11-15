@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/datran42/newfeed-go/internal/domain"
+	"github.com/Dang-Hai-Tran/newfeed-go/internal/domain"
 )
 
 // Default cache durations

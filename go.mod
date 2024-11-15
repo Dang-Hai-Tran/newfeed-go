@@ -1,4 +1,4 @@
-module github.com/datran42/newfeed-go
+module github.com/Dang-Hai-Tran/newfeed-go
 
 go 1.21
 

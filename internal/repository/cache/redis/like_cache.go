@@ -5,9 +5,9 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/datran42/newfeed-go/internal/domain"
-	"github.com/datran42/newfeed-go/internal/repository/cache"
-	redisClient "github.com/datran42/newfeed-go/pkg/cache"
+	"github.com/Dang-Hai-Tran/newfeed-go/internal/domain"
+	"github.com/Dang-Hai-Tran/newfeed-go/internal/repository/cache"
+	redisClient "github.com/Dang-Hai-Tran/newfeed-go/pkg/cache"
 )
 
 type likeCache struct {

@@ -26,7 +26,7 @@ A high-performance social media backend system built with Go, featuring advanced
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/datran42/newfeed-go.git
+git clone https://github.com/Dang-Hai-Tran/newfeed-go.git
 cd newfeed-go
 ```
 
